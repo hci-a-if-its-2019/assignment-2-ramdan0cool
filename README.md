@@ -7,29 +7,41 @@ Sketch at least **3 (three)** different UIs for the functions you are targeting.
 You need **not** sketch the whole interface. It is not necessary for the sketches to have every function or every function in detail, but there should be enough to show off your general idea. **Be creative!** Draw your idea and label a few of the widgets so we can tell your intent. The goal is to have at least 3 good UIs in *interesting* ways. Sketches should be done on paper with pens and/or pencils (do not use a computer).
 
 ### 1. Scan/Photo of Sketches
-```
-Be sure to label the different versions so you can differentiate them in your discussion. 
-If you choose to take a picture of your sketches, please make sure the texts are readable.
-```
 
-![Scan/Photo of Sketches](https://picsum.photos/400/300/?random)
+Original
+![Original Sketch](https://github.com/hci-a-if-its-2019/assignment-2-ramdan0cool/blob/master/Images/Original.jpg)
+
+Sketch 1
+![Original Sketch](https://github.com/hci-a-if-its-2019/assignment-2-ramdan0cool/blob/master/Images/Sketch1.jpg)
+
+Sketch 2
+![Original Sketch](https://github.com/hci-a-if-its-2019/assignment-2-ramdan0cool/blob/master/Images/Sketch2.jpg)
+
+Sketch 3
+![Original Sketch](https://github.com/hci-a-if-its-2019/assignment-2-ramdan0cool/blob/master/Images/Sketch3.jpg)
 
 ### 2. Version Differences
-```
-Please write a paragraph talking about the differences between the versions
-```
+
+Original
+There are some redundant buttons and search bar positioned too far to the right.
+
+Sketch 1
+Remove redundant elements and reposition search bar for easier spotting.
+
+Sketch 2
+(For Mobile browser) Reorder the elements and collapse the 'More' element for cleaner UI.
+
+Sketch 3
+Like Sketch 1, but with Mobile browser layout
 
 ### 3. Selected Sketch
-```
-Please write a paragraph telling us about which design you picked for Parts B and C 
-and why you selected it.
-```
+
+Sketch 1, because there are not many elements need to be changed, and makes the UI more cleaner and easily recognizable. It also reduced the amount of time needed to read a story, specific or random.
 
 ### 4. Design Rationale
-```
-Please write a paragraph expressing what you have learned from the contextual inquiry, 
-and how it is reflected in your design.
-```
+
+During the inquiry process, I feel that whenever I want to search a story, I have to search the search bar first.```Puns!```
+It seems that the search bar is on the more 'empty' part of the site, more spesifically the right side. This means it is easy to lose sight or forgot where the search bar is, because many site (if not all) positioned their search bar near the more focal part of the site.
 
 ## Part B: Assumptions
 ### 1. Hardware
@@ -40,14 +52,25 @@ using accelerometer/gyroscope, using mouse, keyboard, etc.
 Please be specific with the required hardware and any other assumptions, 
 like whether the screen is color or black and white, etch.
 ```
+(Desktop) Screen size: 10 inch (Optimal)
+(Mobile) Screen size: 4.6 inch (Optimal)
+
+(Desktop) Screen resolution: 1204 x 600
+(Mobile) Screen resolution: 720x1280
+
+Screen type: RGB (Optimal)
+
+(Desktop) Input device: Mouse, keyboard
+(Android) Input device: touchscreen
+
+
 ### 2. Users
-```
-Please write down the assumptions about your users. 
-What level of experience do you expect? 
-Who familiar with computers/gadget will they be? 
-What ages? 
-Are there any other factors about the users that will influence your design?
-```
+
+Level of experience: Beginner to familiar with web browsing
+Occupation range: anything
+Age range: 13 - 60 years old
+Familiarity: Capable to operate the browser.
+Other factors: None
 
 ## Part C: Prototypes
-We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
+We will work on this part together during the class on **March 21nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
