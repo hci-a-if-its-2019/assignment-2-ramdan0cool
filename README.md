@@ -45,13 +45,7 @@ It seems that the search bar is on the more 'empty' part of the site, more spesi
 
 ## Part B: Assumptions
 ### 1. Hardware
-```
-Please write what are the assumptions for the hardware on which your new design will be implemented, 
-such as: screen size, screen resolution, on touch screen, via physical buttons, 
-using accelerometer/gyroscope, using mouse, keyboard, etc. 
-Please be specific with the required hardware and any other assumptions, 
-like whether the screen is color or black and white, etch.
-```
+
 (Desktop) Screen size: 10 inch (Optimal)
 (Mobile) Screen size: 4.6 inch (Optimal)
 
