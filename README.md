@@ -70,4 +70,4 @@ Other factors: None
 We will work on this part together during the class on **March 21nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
 
 Sketch: [InVision Freehand](https://projects.invisionapp.com/freehand/document/nxT85IjlM)
-Prototype: [InVision Prototype](https://invis.io/3QR8W1GAK5M#/354827443_HCI-Screen1)
+Prototype: [InVision Prototype](https://invis.io/3QR8W1GAK5M#/354827443_HCI-Screen1) [Bubble.is Live](https://fanfictionet.bubbleapps.io)
